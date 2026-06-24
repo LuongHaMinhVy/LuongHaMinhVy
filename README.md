@@ -1,159 +1,89 @@
-<h1 align="center">Hi, I'm LuongHaMinhVy 👋</h1>
+# Hi, I'm LuongHaMinhVy 👋
 
-<p align="center">
-  <b>IT Student • Backend Developer • Full-stack Learner</b>
-</p>
+[![GitHub stars](https://img.shields.io/github/stars/LuongHaMinhVy?style=for-the-badge)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuongHaMinhVy&layout=compact&theme=tokyonight)]()
+[![Profile Views](https://komarev.com/ghpvc/?username=LuongHaMinhVy&style=flat-square)]()
 
-<p align="center">
-  I am currently studying Information Technology and building real-world projects with Java, Spring Boot, React, Next.js, TypeScript, and MySQL.
-  <br />
-  My main focus is backend development, RESTful API design, authentication, database modeling, and full-stack application architecture.
-</p>
+A backend-focused developer from Vietnam building scalable web applications with Java, Spring Boot, and modern frontend stacks.
+
+---
+
+## Table of Contents
+- [About Me](#about-me)
+- [Tech Stack](#tech-stack)
+- [Featured Projects](#featured-projects)
+- [How to Run / Demo](#how-to-run--demo)
+- [Contact](#contact)
+- [Extras](#extras)
 
 ---
 
 ## About Me
-
-- IT student from Vietnam
-- Interested in backend development and full-stack web applications
-- Currently working with Java, Spring Boot, Next.js, React, TypeScript, and MySQL
-- Building projects related to e-commerce, music apps, student management, sales management, and short-video social platforms
-- Learning how to design scalable APIs, clean architecture, authentication systems, and real-world software workflows
+- IT student studying Information Technology.
+- Focus: backend architecture, RESTful APIs, authentication, database modeling.
+- Currently building full-stack apps using Spring Boot (Java) and Next.js (TypeScript).
 
 ---
 
 ## Tech Stack
 
-### Backend
+Backend
+- Java, Spring Boot, Spring Security, JWT, Hibernate, MySQL
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+Frontend
+- React, Next.js, TypeScript, Tailwind CSS
 
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### Database & Tools
-
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+Tools & DevOps
+- Git, GitHub, IntelliJ IDEA, VS Code, Cloudflare R2 (for media)
 
 ---
 
 ## Featured Projects
 
-### TopTop — Short Video Social Platform
-
-A full-stack short-video social platform inspired by TikTok.
-
-Main features:
-
-- JWT authentication
-- Video upload
-- Like, comment, reply, and report system
-- Follow and following feed
-- Music and sound management
-- Favorite videos and sounds
-- Content moderation workflow
-- Admin review system
-
-Tech stack:
-
-```txt
-Spring Boot • Next.js • TypeScript • MySQL • Cloudflare R2
-```
-
----
+### TopTop — Short Video Social Platform (WIP)
+- Highlights: JWT auth, video upload, likes/comments, follow feed, admin moderation
+- Tech: Spring Boot • Next.js • TypeScript • MySQL • Cloudflare R2
+- Demo / Repo: (link to repo or demo)
+- Screenshots: (add screenshot or GIF here)
 
 ### Sales Management System
-
-A sales management project focused on product, order, user, invoice, and payment handling.
-
-Main features:
-
-- Product management
-- Cart and order processing
-- Invoice generation
-- Payment status management
-- Role-based access control
-- Sales reports
-
-Tech stack:
-
-```txt
-Java • Spring Boot • MySQL • Spring Security
-```
-
----
+- Highlights: product & order management, invoicing, role-based access
+- Tech: Java • Spring Boot • MySQL • Spring Security
+- Repo: (link)
 
 ### Music App
+- Highlights: song management, user interactions, API-focused
+- Tech: Java • Spring Boot • MySQL
+- Repo: (link)
 
-A music-related application built to practice backend structure, database relations, and application logic.
-
-Main features:
-
-- Song management
-- User interaction
-- Music data organization
-- Backend API structure
-
-Tech stack:
-
-```txt
-Java • Spring Boot • MySQL
-```
+(For each project, add a short Usage / How to run snippet or link to project's README.)
 
 ---
 
-### Course Student Management
+## How to Run / Demo
+1. Clone repo: `git clone https://github.com/LuongHaMinhVy/<repo>.git`
+2. Setup DB: MySQL, create database `your_db`
+3. Copy `.env.example` to `.env` and fill DB and storage settings
+4. Run backend: `./mvnw spring-boot:run`
+5. Run frontend: `npm install && npm run dev` (in Next.js folder)
 
-A student/course management system for practicing CRUD, database design, and backend application structure.
-
-Tech stack:
-
-```txt
-Java • Spring Boot • MySQL
-```
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuongHaMinhVy&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuongHaMinhVy&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## Current Focus
-
-```txt
-Backend Architecture
-Spring Boot Security
-RESTful API Design
-Next.js Frontend Development
-Database Modeling
-Cloud Media Storage
-Full-stack Project Structure
-```
+(Adapt steps per project and provide relevant commands and env vars.)
 
 ---
 
 ## Contact
+- GitHub: https://github.com/LuongHaMinhVy
+- Email: your.email@domain.com (or remove if private)
+- LinkedIn: https://www.linkedin.com/in/your-linkedin/
 
-- GitHub: `LuongHaMinhVy`
-- TikTok: `@vy.seion.05`
-- Facebook: `minh.vy.1601`
+---
+
+## Extras (recommended files to add)
+- LICENSE (e.g., MIT)
+- CONTRIBUTING.md
+- CODE_OF_CONDUCT.md
+- .github/ISSUE_TEMPLATE.md
+- .github/PULL_REQUEST_TEMPLATE.md
+- Add CI badge from GitHub Actions for your main project(s)
+
+---
