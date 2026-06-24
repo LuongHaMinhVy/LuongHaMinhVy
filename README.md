@@ -72,14 +72,6 @@ Notes: Replace `<repo>` and environment variables per project README. Include sa
 
 ---
 
-## Extras / Suggestions to make this repo HR-friendly
-- Add repository links and demos for each featured project (pin key repos)
-- Add short README per project with "How to run" and sample credentials
-- Attach a short resume (PDF) or link to a public CV
-- Add LICENSE (MIT) and CONTRIBUTING.md if accepting contributions
-- Add screenshots/GIFs for UI-focused projects and a short demo video link
-
----
 
 Tiếng Việt (tóm tắt): Sinh viên CNTT / developer backend (Java, Spring Boot). Chuyên xây dựng API, hệ thống xác thực, mô hình dữ liệu. Thích hợp cho vị trí backend hoặc full-stack.
 
