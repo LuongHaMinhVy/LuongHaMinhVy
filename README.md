@@ -1,89 +1,86 @@
-# Hi, I'm LuongHaMinhVy 👋
+# LuongHaMinhVy — Backend Engineer (Java & Spring Boot)
 
 [![GitHub stars](https://img.shields.io/github/stars/LuongHaMinhVy?style=for-the-badge)]()
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuongHaMinhVy&layout=compact&theme=tokyonight)]()
 [![Profile Views](https://komarev.com/ghpvc/?username=LuongHaMinhVy&style=flat-square)]()
 
-A backend-focused developer from Vietnam building scalable web applications with Java, Spring Boot, and modern frontend stacks.
+Vi / EN: Backend developer from Vietnam — specialized in Java & Spring Boot. I build reliable REST APIs, design data models, and implement secure authentication flows. Open to Backend / Full-stack roles and internships.
 
 ---
 
-## Table of Contents
-- [About Me](#about-me)
-- [Tech Stack](#tech-stack)
-- [Featured Projects](#featured-projects)
-- [How to Run / Demo](#how-to-run--demo)
-- [Contact](#contact)
-- [Extras](#extras)
+## Quick summary
+- Role: Backend Engineer (Java, Spring Boot) — building scalable services and APIs
+- Experience: Authentication (JWT, Spring Security), persistence (JPA/Hibernate, MySQL), file/media storage (Cloudflare R2 / S3-compatible)
+- Looking for: Backend or Full-stack positions; open to remote or relocation
 
 ---
 
-## About Me
-- IT student studying Information Technology.
-- Focus: backend architecture, RESTful APIs, authentication, database modeling.
-- Currently building full-stack apps using Spring Boot (Java) and Next.js (TypeScript).
+## Tech stack
+- Languages: Java, TypeScript
+- Backend: Spring Boot, Spring Security, JWT, Hibernate (JPA)
+- Databases: MySQL (design + optimization)
+- Frontend (basic): React, Next.js, Tailwind CSS
+- Dev & infra: Git, GitHub, Docker (basic), Cloudflare R2
 
 ---
 
-## Tech Stack
-
-Backend
-- Java, Spring Boot, Spring Security, JWT, Hibernate, MySQL
-
-Frontend
-- React, Next.js, TypeScript, Tailwind CSS
-
-Tools & DevOps
-- Git, GitHub, IntelliJ IDEA, VS Code, Cloudflare R2 (for media)
-
----
-
-## Featured Projects
+## Selected projects
+(Thêm link repo hoặc demo cho từng project để HR có thể xem mã nguồn và demo.)
 
 ### TopTop — Short Video Social Platform (WIP)
-- Highlights: JWT auth, video upload, likes/comments, follow feed, admin moderation
-- Tech: Spring Boot • Next.js • TypeScript • MySQL • Cloudflare R2
-- Demo / Repo: (link to repo or demo)
-- Screenshots: (add screenshot or GIF here)
+- Role: Backend lead — API design, authentication, media upload pipeline
+- Highlights: JWT auth, resumable video uploads, like/comment system, follow feed, admin moderation
+- Tech: Spring Boot • Next.js • MySQL • Cloudflare R2
+- Repo / Demo: add link
 
 ### Sales Management System
-- Highlights: product & order management, invoicing, role-based access
-- Tech: Java • Spring Boot • MySQL • Spring Security
-- Repo: (link)
-
-### Music App
-- Highlights: song management, user interactions, API-focused
+- Role: Full-stack (backend-focused)
+- Highlights: Product & order management, invoicing, RBAC
 - Tech: Java • Spring Boot • MySQL
-- Repo: (link)
+- Repo: add link
 
-(For each project, add a short Usage / How to run snippet or link to project's README.)
+### Music App (API-focused)
+- Role: Backend developer
+- Highlights: Song management, user interactions, search endpoints
+- Tech: Java • Spring Boot • MySQL
+- Repo: add link
 
 ---
 
-## How to Run / Demo
-1. Clone repo: `git clone https://github.com/LuongHaMinhVy/<repo>.git`
-2. Setup DB: MySQL, create database `your_db`
-3. Copy `.env.example` to `.env` and fill DB and storage settings
-4. Run backend: `./mvnw spring-boot:run`
-5. Run frontend: `npm install && npm run dev` (in Next.js folder)
+## How to run (example)
+1. Clone: `git clone https://github.com/LuongHaMinhVy/<repo>.git`
+2. Create DB: MySQL — create database (e.g., `app_db`)
+3. Copy env: `cp .env.example .env` and fill DB and storage credentials
+4. Backend: `./mvnw spring-boot:run` or run from IDE
+5. Frontend (if present): `cd frontend && npm install && npm run dev`
 
-(Adapt steps per project and provide relevant commands and env vars.)
+Notes: Replace `<repo>` and environment variables per project README. Include sample seed data or Postman/Insomnia collection for faster review.
+
+---
+
+## Why hire me (short for HR)
+- Strong foundation in backend system design and API best practices
+- Practical experience with authentication, file storage, DB modeling
+- Able to explain architecture choices and perform code walk-throughs during interviews
 
 ---
 
 ## Contact
 - GitHub: https://github.com/LuongHaMinhVy
-- Email: your.email@domain.com (or remove if private)
+- Email: your.email@domain.com (replace with your contact email)
 - LinkedIn: https://www.linkedin.com/in/your-linkedin/
 
 ---
 
-## Extras (recommended files to add)
-- LICENSE (e.g., MIT)
-- CONTRIBUTING.md
-- CODE_OF_CONDUCT.md
-- .github/ISSUE_TEMPLATE.md
-- .github/PULL_REQUEST_TEMPLATE.md
-- Add CI badge from GitHub Actions for your main project(s)
+## Extras / Suggestions to make this repo HR-friendly
+- Add repository links and demos for each featured project (pin key repos)
+- Add short README per project with "How to run" and sample credentials
+- Attach a short resume (PDF) or link to a public CV
+- Add LICENSE (MIT) and CONTRIBUTING.md if accepting contributions
+- Add screenshots/GIFs for UI-focused projects and a short demo video link
 
 ---
+
+Tiếng Việt (tóm tắt): Sinh viên CNTT / developer backend (Java, Spring Boot). Chuyên xây dựng API, hệ thống xác thực, mô hình dữ liệu. Thích hợp cho vị trí backend hoặc full-stack.
+
+_Last updated: 2026-06-24_
