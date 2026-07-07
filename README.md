@@ -31,20 +31,20 @@ Vi / EN: Backend developer from Vietnam — specialized in Java & Spring Boot. I
 - Role: Backend lead — API design, authentication, media upload pipeline
 - Highlights: JWT auth, resumable video uploads, like/comment system, follow feed, admin moderation
 - Tech: Spring Boot • Next.js • MySQL • Cloudflare R2
-- Repo / Demo: [add link](https://github.com/LuongHaMinhVy/TopTop-BE)
-              [add_link](https://github.com/LuongHaMinhVy/TopTop-FE)
+- Repo / Demo: [TopTop-BE](https://github.com/LuongHaMinhVy/TopTop-BE)
+              [TopTop-FE](https://github.com/LuongHaMinhVy/TopTop-FE)
 
 ### Sales Management System
 - Role: Full-stack (backend-focused)
 - Highlights: Product & order management, invoicing, RBAC
 - Tech: Java • Spring Boot • MySQL
-- Repo: [add link](https://github.com/LuongHaMinhVy/newProjectSales)
+- Repo: [newProjectSales](https://github.com/LuongHaMinhVy/newProjectSales)
 
 ### Music App (API-focused)
 - Role: Backend developer
 - Highlights: Song management, user interactions, search endpoints
 - Tech: Java • Spring Boot • MySQL
-- Repo: [add link](https://github.com/LuongHaMinhVy/Music-App/tree/master/src)
+- Repo: [Music-App](https://github.com/LuongHaMinhVy/Music-App)
 
 ---
 
